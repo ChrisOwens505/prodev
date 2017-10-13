@@ -4,5 +4,9 @@
 	text-align: center;
 }
 body{
-background-image: url("galaxy.jpg");width: auto;height: auto;
+background-image: url("chem.jpg");
+	background-attachment: scroll;
+	width: auto;
+	height: auto;
+	overflow: scroll;
 }
