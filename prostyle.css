@@ -1,12 +1,5 @@
 .center{
-	width: 200%;
-	margin: auto;
-	text-align: center;
-}
-body{
-background-image: url("chem.jpg");
-	background-attachment: scroll;
 	width: auto;
-	height: auto;
-	overflow: scroll;
+	margin: auto;
+	text-align: left;
 }
